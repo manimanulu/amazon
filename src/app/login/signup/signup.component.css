@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.col-sm-4{
+    margin-top: 15px;
+    padding: 10px;
+}
+.row{
+    margin-bottom: 15%;
+}
+.card{
+    padding: 20px;
+}
+.form-control{
+    width: 600px;
+        height: 35x;
+        border-radius: 5px;
+        border: 2px solid blue;
+        font-size: 20px;
+}
+.btn{
+    background-color: green;
+        color: white;
+        font-size: 20px;
+        border-radius: 0px 50px;
+}
+.btn:hover{
+    background-color: blue;
+        color:black;
+}
+h1
+{
+    background-color: beige;
+    text-shadow: 2px 2px red;
+    text-align:center;
+}
+form{
+    background-color: tomato;
+}
